@@ -1,0 +1,17 @@
+﻿@model Instructor
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h1>Instructor Detail</h1>
+<hr />
+<img src="/@Model.Image" style="width: 160px" />
+<br />
+<h3>Name: @Model.Name</h3>
+<h3>Id: @Model.Id</h3>
+<h3>Salary: @Model.Salary</h3>
+<h3>Address: @Model.Address</h3>
+<h3>Department: @Model.Department.Name</h3>
+<h3>Course: @Model.Course.Name</h3>
+
+

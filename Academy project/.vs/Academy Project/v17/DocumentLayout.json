@@ -1,0 +1,1050 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\controllers\\identityresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:controllers\\identityresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224162049_setNull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224161855_setNull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224161221_setNullforDepId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224160504_setNull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224160330_setNull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\repository\\itraineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:repository\\itraineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\repository\\traineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:repository\\traineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\trainee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\trainee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\instructor\\editinstructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\instructor\\editinstructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\viewmodels\\adminpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:viewmodels\\adminpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\viewmodels\\changeroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:viewmodels\\changeroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\instructor\\addnewinstructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\instructor\\addnewinstructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\repository\\resultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:repository\\resultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\result\\traineeresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\result\\traineeresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\trainee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\trainee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\migrations\\20250109204541_traineeimagenull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:migrations\\20250109204541_traineeimagenull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\models\\data\\config\\traineeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:models\\data\\config\\traineeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\models\\data\\config\\courseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:models\\data\\config\\courseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\models\\data\\config\\crsresultconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:models\\data\\config\\crsresultconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\models\\data\\config\\instructorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:models\\data\\config\\instructorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\migrations\\20241225125033_makeallnoactionondelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:migrations\\20241225125033_makeallnoactionondelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\repository\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:repository\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\migrations\\20241225122333_makeallsetnullondelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:migrations\\20241225122333_makeallsetnullondelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\department\\editdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\department\\editdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\migrations\\20241224163424_cascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:migrations\\20241224163424_cascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\migrations\\20241224162353_setnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:migrations\\20241224162353_setnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\migrations\\20241224162440_setnullondelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:migrations\\20241224162440_setnullondelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\migrations\\20241224161345_setnullfordepid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:migrations\\20241224161345_setnullfordepid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\department\\addnewdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\department\\addnewdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\account\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\account\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\viewmodels\\loginuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:viewmodels\\loginuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|d:\\college\\skills\\full stack\\back end\\.net\\mvc\\academy project\\academy project\\viewmodels\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCFFF7-4C58-47AF-8AE6-4B04FBF27E1F}|Academy_project.csproj|solutionrelative:viewmodels\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:38:19.276Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TraineeController.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "Controllers\\TraineeController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:34:45.272Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITraineeRepository.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\ITraineeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ITraineeRepository.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\ITraineeRepository.cs",
+              "RelativeToolTip": "Repository\\ITraineeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:36:16.039Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TraineeRepository.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\TraineeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TraineeRepository.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\TraineeRepository.cs",
+              "RelativeToolTip": "Repository\\TraineeRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBQwCwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:39:01.082Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Trainee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trainee\\Index.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Trainee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Trainee\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwC0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T12:46:13.933Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T10:54:57.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:03:12.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "identityResult.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\identityResult.cs",
+              "RelativeDocumentMoniker": "Controllers\\identityResult.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\identityResult.cs",
+              "RelativeToolTip": "Controllers\\identityResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:02:46.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InstructorController.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "Controllers\\InstructorController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwFAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:35:04.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultController.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\ResultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResultController.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\ResultController.cs",
+              "RelativeToolTip": "Controllers\\ResultController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAuwG8AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:03:41.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwE8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:12:19.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:05:26.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAkwDMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:14:47.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:52:00.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Edit.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Course\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwCAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T12:56:03.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditInstructor.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Instructor\\EditInstructor.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructor\\EditInstructor.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Instructor\\EditInstructor.cshtml",
+              "RelativeToolTip": "Views\\Instructor\\EditInstructor.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T23:33:38.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminPageViewModel.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\ViewModels\\AdminPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdminPageViewModel.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\ViewModels\\AdminPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AdminPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:37:55.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChangeRoleViewModel.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\ViewModels\\ChangeRoleViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ChangeRoleViewModel.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\ViewModels\\ChangeRoleViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ChangeRoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:33:33.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Models\\Instructor.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Instructor.cs",
+              "RelativeToolTip": "Models\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:36:37.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddNewInstructor.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Instructor\\AddNewInstructor.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructor\\AddNewInstructor.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Instructor\\AddNewInstructor.cshtml",
+              "RelativeToolTip": "Views\\Instructor\\AddNewInstructor.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T17:34:36.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAIBJwBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T20:55:59.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ResultRepository.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\ResultRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ResultRepository.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\ResultRepository.cs",
+              "RelativeToolTip": "Repository\\ResultRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwCoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:45:38.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwC4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T13:09:39.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TraineeResult.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Result\\TraineeResult.cshtml",
+              "RelativeDocumentMoniker": "Views\\Result\\TraineeResult.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Result\\TraineeResult.cshtml",
+              "RelativeToolTip": "Views\\Result\\TraineeResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T13:20:10.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Trainee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trainee\\Edit.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Trainee\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Trainee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T14:25:31.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250109204541_TraineeImageNull.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20250109204541_TraineeImageNull.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250109204541_TraineeImageNull.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20250109204541_TraineeImageNull.cs",
+              "RelativeToolTip": "Migrations\\20250109204541_TraineeImageNull.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:45:41.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TraineeConfig.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Data\\Config\\TraineeConfig.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\Config\\TraineeConfig.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Data\\Config\\TraineeConfig.cs",
+              "RelativeToolTip": "Models\\Data\\Config\\TraineeConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:19:38.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Trainee.cs",
+              "RelativeDocumentMoniker": "Models\\Trainee.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Trainee.cs",
+              "RelativeToolTip": "Models\\Trainee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:17:53.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CourseConfig.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Data\\Config\\CourseConfig.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\Config\\CourseConfig.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Data\\Config\\CourseConfig.cs",
+              "RelativeToolTip": "Models\\Data\\Config\\CourseConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:02:56.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_navBar.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Shared\\_navBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_navBar.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Shared\\_navBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_navBar.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwC8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T22:22:57.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T15:25:32.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\DepartmentRepository.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "Repository\\DepartmentRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:44:33.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CrsResultConfig.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Data\\Config\\CrsResultConfig.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\Config\\CrsResultConfig.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Data\\Config\\CrsResultConfig.cs",
+              "RelativeToolTip": "Models\\Data\\Config\\CrsResultConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:18:34.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:13:07.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Instructor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructor\\Index.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Instructor\\Index.cshtml",
+              "RelativeToolTip": "Views\\Instructor\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T12:30:25.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CourseRepository.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "Repository\\CourseRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwC8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:44:04.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "InstructorConfig.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Data\\Config\\InstructorConfig.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\Config\\InstructorConfig.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Data\\Config\\InstructorConfig.cs",
+              "RelativeToolTip": "Models\\Data\\Config\\InstructorConfig.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:20:16.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20241225125033_makeAllNoActionOnDelete.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20241225125033_makeAllNoActionOnDelete.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241225125033_makeAllNoActionOnDelete.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20241225125033_makeAllNoActionOnDelete.cs",
+              "RelativeToolTip": "Migrations\\20241225125033_makeAllNoActionOnDelete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:50:33.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "InstructorRepository.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\InstructorRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\InstructorRepository.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\InstructorRepository.cs",
+              "RelativeToolTip": "Repository\\InstructorRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:44:54.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20241225122333_makeAllSetNullOnDelete.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20241225122333_makeAllSetNullOnDelete.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241225122333_makeAllSetNullOnDelete.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20241225122333_makeAllSetNullOnDelete.cs",
+              "RelativeToolTip": "Migrations\\20241225122333_makeAllSetNullOnDelete.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:23:34.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA3wBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:21:37.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwCsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-24T11:24:55.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EditDepartment.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Department\\EditDepartment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\EditDepartment.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Department\\EditDepartment.cshtml",
+              "RelativeToolTip": "Views\\Department\\EditDepartment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T15:44:18.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:43:33.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20241224163424_cascade.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20241224163424_cascade.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241224163424_cascade.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20241224163424_cascade.cs",
+              "RelativeToolTip": "Migrations\\20241224163424_cascade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:34:24.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20241224162353_setNull.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20241224162353_setNull.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241224162353_setNull.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20241224162353_setNull.cs",
+              "RelativeToolTip": "Migrations\\20241224162353_setNull.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:23:53.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20241224162440_setNullondelete.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20241224162440_setNullondelete.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241224162440_setNullondelete.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20241224162440_setNullondelete.cs",
+              "RelativeToolTip": "Migrations\\20241224162440_setNullondelete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:24:40.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20241224161345_setNullforDepId.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20241224161345_setNullforDepId.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241224161345_setNullforDepId.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Migrations\\20241224161345_setNullforDepId.cs",
+              "RelativeToolTip": "Migrations\\20241224161345_setNullforDepId.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:13:46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241224162049_setNull.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224162049_setNull.cs",
+              "RelativeDocumentMoniker": "..\\..\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224162049_setNull.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224162049_setNull.cs",
+              "RelativeToolTip": "..\\..\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224162049_setNull.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:20:50.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241224161855_setNull.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224161855_setNull.cs",
+              "RelativeDocumentMoniker": "..\\..\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224161855_setNull.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224161855_setNull.cs",
+              "RelativeToolTip": "..\\..\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224161855_setNull.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:18:56.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241224161221_setNullforDepId.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224161221_setNullforDepId.cs",
+              "RelativeDocumentMoniker": "..\\..\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224161221_setNullforDepId.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224161221_setNullforDepId.cs",
+              "RelativeToolTip": "..\\..\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224161221_setNullforDepId.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:12:22.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241224160504_setNull.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224160504_setNull.cs",
+              "RelativeDocumentMoniker": "..\\..\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224160504_setNull.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224160504_setNull.cs",
+              "RelativeToolTip": "..\\..\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224160504_setNull.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:05:04.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241224160330_setNull.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224160330_setNull.cs",
+              "RelativeDocumentMoniker": "..\\..\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224160330_setNull.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224160330_setNull.cs",
+              "RelativeToolTip": "..\\..\\MVC_TASKS\\Day2_MVC_Task\\Migrations\\20241224160330_setNull.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:03:30.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AddNewDepartment.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Department\\AddNewDepartment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\AddNewDepartment.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Department\\AddNewDepartment.cshtml",
+              "RelativeToolTip": "Views\\Department\\AddNewDepartment.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T15:51:23.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T21:22:56.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T20:15:10.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\ViewModels\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RoleViewModel.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\ViewModels\\RoleViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:26:17.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AddRole.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Account\\AddRole.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\AddRole.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Account\\AddRole.cshtml",
+              "RelativeToolTip": "Views\\Account\\AddRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T21:42:26.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserViewModel.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T22:55:32.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T11:11:39.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T20:32:54.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LoginUserViewModel.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\ViewModels\\LoginUserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginUserViewModel.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\ViewModels\\LoginUserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:28:40.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwCkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T19:55:50.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RegisterUserViewModel.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\ViewModels\\RegisterUserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterUserViewModel.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\back end\\.net\\MVC\\Academy project\\Academy Project\\ViewModels\\RegisterUserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:47:39.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

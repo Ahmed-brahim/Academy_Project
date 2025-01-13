@@ -1,0 +1,164 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* General Navbar Styling */
+.navbar {
+    background-color: #ffffff; /* White background */
+    border-bottom: 3px solid #007bff; /* Blue border at the bottom */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Slight shadow effect */
+    padding: 10px 20px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #007bff !important;
+    transition: color 0.3s ease-in-out;
+}
+
+    .navbar-brand:hover {
+        color: #0056b3 !important; /* Darker blue on hover */
+    }
+
+.navbar-toggler {
+    background-color: #007bff; /* Make the toggler button blue #007bff */
+}
+
+.navbar-toggler-icon {
+    background-color: #007bff; /* Blue background for the hamburger icon */
+}
+
+/* Navbar Link Styling */
+.nav-link {
+    color: #333 !important; /* Dark color for text */
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 10px 15px;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+    .nav-link:hover {
+        color: #ffffff !important;
+        background-color: #007bff; /* Blue background on hover */
+        border-radius: 5px; /* Rounded corners on hover */
+    }
+
+/* Navbar for Authenticated Users */
+.navbar-nav .nav-item {
+    margin-right: 15px;
+}
+
+/* Buttons (Login, Register, Logout) */
+.btn {
+    font-weight: bold;
+    border-radius: 20px; /* Rounded buttons */
+    padding: 8px 20px;
+}
+
+.btn-danger {
+    background-color: #dc3545; /* Red background for logout */
+    border: none;
+}
+
+    .btn-danger:hover {
+        background-color: #c82333;
+    }
+
+.btn-success {
+    background-color: #28a745; /* Green background for login */
+    border: none;
+}
+
+    .btn-success:hover {
+        background-color: #218838;
+    }
+
+.btn-primary {
+    background-color: #007bff; /* Blue background for register */
+    border: none;
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+    }
+
+/* Styling for Navbar Items when logged in */
+.d-flex {
+    display: flex;
+    align-items: center;
+}
+
+.ms-auto {
+    margin-left: auto;
+}
+
+/* Mobile View Styling */
+@media (max-width: 768px) {
+    .navbar {
+        padding: 15px 10px; /* Increased padding for mobile */
+    }
+
+    .navbar-nav {
+        margin-top: 10px;
+    }
+
+    .navbar-collapse {
+        justify-content: flex-start;
+    }
+
+    .navbar-nav .nav-item {
+        margin-right: 10px;
+    }
+
+    .navbar-toggler {
+        border-color: #007bff;
+    }
+
+    .navbar-toggler-icon {
+        background-color: #007bff;
+    }
+}
+
+/* Styling for the Dashboard Cards */
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth scaling and shadow transition */
+    transform-origin: center center; /* Ensure it scales from the center */
+}
+
+    .card:hover {
+        transform: scale(1.05); /* Scale up the card */
+        box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1); /* Add a subtle shadow effect on hover */
+    }
+
+.card-body {
+    padding: 20px;
+}
+
+/* Optional: Adding a more prominent effect on hover for the title or text */
+.card-title {
+    transition: color 0.3s ease;
+}
+
+.card:hover .card-title {
+    color: black; /* Change the color of the title on hover */
+}

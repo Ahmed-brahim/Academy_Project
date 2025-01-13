@@ -1,0 +1,63 @@
+﻿@model List<Course>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Courses</h1>
+@if (User.IsInRole("Admin") || User.IsInRole("Manager"))
+{ 
+   <a asp-action="AddNewCourse" asp-controller="Course" class="btn btn-success"><i class="fas fa-plus"></i> Add New</a>
+}
+
+<br />
+<br />
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Degree</th>
+            <th>Min. Degree</th>
+            <th>Department</th>
+            <th></th>
+            @if (User.IsInRole("Admin") || User.IsInRole("Manager"))
+            {
+                <th>Edit</th>
+            }
+            @if (User.IsInRole("Admin"))
+            {
+                <th>Delete</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var c in @Model)
+        {
+            <tr>
+                <td>@c.Name</td>
+                <td>@c.Degree</td>
+                <td>@c.MinDegree</td>
+                <td>@c.Department.Name</td>
+                <td>
+                    <a asp-action="ShowCourseResult" asp-controller="Result" asp-route-id="@c.Id">Get Result</a>
+                </td>
+                @if (User.IsInRole("Admin") || User.IsInRole("Manager"))
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id = "@c.Id" class="btn btn-success">
+                            <i class="fas fa-edit"></i>
+                        </a>
+                    </td>
+                }
+                @if (User.IsInRole("Admin"))
+                {
+                    <td>
+                        <a asp-action="delete" asp-route-id="@c.Id" class="btn btn-danger">
+                            <i class="fas fa-trash-alt"></i>
+                        </a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+

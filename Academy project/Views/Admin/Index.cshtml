@@ -1,0 +1,137 @@
+﻿@model AdminPageViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+@*------------DashBoard--------------*@
+<h1>Admin Dashboard</h1>
+<br />
+<div class="row">
+    <div class="col-md-4">
+        <div class="card text-white bg-primary mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Total Users</h5>
+                <p class="card-text">@ViewBag.UsersCount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-secondary mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Total Roles</h5>
+                <p class="card-text">@ViewBag.RolesCount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-success mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Total Courses</h5>
+                <p class="card-text">@ViewBag.CoursesCount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-danger mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Total Departments</h5>
+                <p class="card-text">@ViewBag.DeptsCount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-secondary mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Total Instructors</h5>
+                <p class="card-text">@ViewBag.InstructorsCount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-warning mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Total Trainees</h5>
+                <p class="card-text">@ViewBag.TraineesCount</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr />
+@*--------------------------*@
+<div asp-validation-summary="All" class="text-danger"></div>
+<h1>Users</h1>
+<br />
+<div>
+    <table class="table table-bordered table-hover text-center">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Email</th>
+				<th>Role</th>
+                <th>Change Role</th>
+                <th>Delete User</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var u in Model.Users)
+			{
+				<tr>
+					<td>@u.Name</td>
+					<td>@u.Email</td>
+					<td>@u.Roles.FirstOrDefault()</td>
+                    <td>
+                        <form asp-action="ChangeRole" method="post">
+                            <input type="hidden" name="UserId" value="@u.Id" />
+
+                            <!-- Flex container for dropdown and button -->
+                            <div class="d-flex align-items-center">
+                                <!-- Dropdown List -->
+                                <select name="NewRole" class="form-select w-50">
+                                    <option value="">Select a role</option>
+                                    @foreach (var role in ViewBag.Roles)
+                                    {
+                                        @if (u.Roles.FirstOrDefault() == role)
+                                        {
+                                            <option value="@role" selected>@role</option>
+                                        }
+                                        else
+                                        {
+                                            <option value="@role">@role</option>
+                                        }
+                                        
+                                    }
+                                    <option value="No Role">No Role</option>
+                                </select>
+                                
+
+                                <!-- Change Role Button -->
+                                <button type="submit" class="btn btn-primary ml-2">Change</button>
+                            </div>
+                        </form>
+
+                    </td>
+                    <td>
+                        <form asp-action="DeleteUser" method="post" style="display:inline-block;">
+                            <!-- Hidden User ID -->
+                            <input type="hidden" name="UserId" value="@u.Id" />
+        
+                            <!-- Delete Button -->
+                            <button type="submit" class="btn btn-danger"> 
+                                <i class="fas fa-trash-alt"></i> <!-- Font Awesome Trash Icon -->
+                            </button>
+                        </form>
+                    </td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>
+
+<!--client side validations-->
+@section Scripts {
+    @*<script src="/lib/jquery/dist/jquery.min.js"></script>*@
+    <script src="/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+
+

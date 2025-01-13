@@ -1,0 +1,24 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "CourseResult";
+    SelectList Courses = new SelectList(ViewBag.Courses, "Id", "Name");
+}
+
+<h1>CourseResult</h1>
+
+<div>
+    <br />
+    <br />
+	<form asp-action="ShowCourseResult" asp-controller="Result">
+		<div>
+			<label>Select Course</label>
+			<select asp-items="Courses" asp-for="Id"></select>
+		</div>
+
+		<br />
+		<br />
+		<input type="submit" value="Get Result" class="btn btn-success"/>
+	</form>
+	
+</div>
+

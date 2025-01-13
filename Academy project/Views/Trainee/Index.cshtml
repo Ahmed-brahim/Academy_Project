@@ -1,0 +1,70 @@
+﻿@model List<Trainee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Trainees</h1>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>
+                Trainee
+            </th>
+            <th>
+                Id
+            </th>
+            <th>
+                Address
+            </th>
+            <th>
+                Age
+            </th>
+            <th>
+                Courses Count
+            </th>
+            <th>
+                Result
+            </th>
+            @if (User.IsInRole("Admin") || User.IsInRole("Manager"))
+            {
+                <th>Edit</th>   
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model)
+        {
+            <tr>
+                <td>
+                    @t.Name
+                </td>
+                <td>
+                    @t.Id
+                </td>
+                <td>
+                    @t.Address
+                </td>
+                <td>
+                    @t.Grade yrs
+                </td>
+                <td>
+                    @t.CrsResults.Count()
+                </td>
+                <td>
+                    <a asp-action="ShowTraineeResult" asp-controller="Result" asp-route-id="@t.Id">Show Result</a>
+                </td>
+                @if (User.IsInRole("Admin") || User.IsInRole("Manager"))
+                {
+                   <td>
+                    <a asp-action="Edit" asp-route-id="@t.Id" class="btn btn-success">
+                        <i class="fas fa-edit"></i>
+                    </a>
+                   </td> 
+                }
+                
+            </tr>
+        }
+    </tbody>
+</table>
+

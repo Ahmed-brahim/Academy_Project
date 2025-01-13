@@ -1,0 +1,62 @@
+﻿@model List<Instructor>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Instructors</h1>
+<a href="/Instructor/AddNewInstructor" class="btn btn-success"> <i class="fas fa-plus"></i> Add New</a>
+<br />
+<br />
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>ID</th>
+            <th>Salary</th>
+            <th>Address</th>
+            <th>Department</th>
+            <th>Course</th>
+            <th>Image</th>
+            @if (User.IsInRole("Admin") || User.IsInRole("Manager"))
+            {
+                <th>Edit</th>
+            }
+            @if(User.IsInRole("Admin"))
+            {
+                <th>Delete</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var Inst in Model)
+        {
+            <tr>
+                <td>@Inst.Name</td>
+                <td>@Inst.Id</td>
+                <td>@Inst.Salary</td>
+                <td>@Inst.Address</td>
+                <td>@Inst.Department.Name</td>
+                <td>@Inst.Course.Name</td>
+                <td><img src = "/@Inst.Image" style="width: 60px"/></td>
+                @if (User.IsInRole("Admin") || User.IsInRole("Manager"))
+                {
+                    <td>
+                        <a href="/instructor/EditInstructor/@Inst.Id" class="btn btn-success">
+                            <i class="fas fa-edit"></i>
+                        </a>
+                    </td>
+                }
+                
+                @if (User.IsInRole("Admin"))
+                {
+                    <td>
+                        <a href="/instructor/DeleteInstructor/@Inst.Id" class="btn btn-danger">
+                            <i class="fas fa-trash-alt"></i>
+                        </a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+

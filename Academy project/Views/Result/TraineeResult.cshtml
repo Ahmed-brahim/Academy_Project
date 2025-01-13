@@ -1,0 +1,21 @@
+﻿@model Trainee
+@{
+    ViewData["Title"] = "TraineeResult";
+}
+
+<h1>TraineeResult</h1>
+
+<div>
+    <form asp-controller="Result" asp-action="ShowTraineeResult">
+        <div>
+            <label asp-for="Id">Trainee Id</label>
+            <input asp-for="Id"/>
+            <span asp-validation-for="Id" class="text-danger"></span>
+        </div>
+        <br />
+        <div>
+            <input type="submit" value="Get Result" class="btn btn-success"/>
+        </div>
+    </form>
+</div>
+

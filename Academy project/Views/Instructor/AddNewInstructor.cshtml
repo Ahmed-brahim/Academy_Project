@@ -1,0 +1,82 @@
+﻿@model Instructor
+@{
+	ViewData["Title"] = "Add New Instructor";
+	SelectList Courses = new SelectList(ViewBag.CoursesList, "Id", "Name");
+	SelectList Depts = new SelectList(ViewBag.DepartmentsList, "Id", "Name");
+}
+
+<h1>Add New Instructor</h1>
+<div asp-validation-summary="All" class="text-danger"></div>
+<form asp-action="SaveNewInstructor" asp-controller="instructor" method="post">
+	<div>
+		<label asp-for="Name"></label>
+		<input asp-for="Name" class="form form-control" />
+		<span asp-validation-for="Name" class="text-danger"></span>
+	</div>
+
+	<div>
+		<label asp-for="Salary"></label>
+		<input asp-for="Salary" class="form form-control" />
+		<span asp-validation-for="Salary" class="text-danger"></span>
+	</div>
+
+	<div>
+		<label asp-for="Address"></label>
+		<input asp-for ="Address" class="form form-control" />
+		<span asp-validation-for="Address" class="text-danger"></span>
+	</div>
+
+	<!--new list-->
+	<div>
+		<label asp-for="Dept_id">Department</label>
+		<select asp-for="Dept_id" asp-items="Depts">
+			<option value="0">--Select Department--</option>
+		</select>
+		<span asp-validation-for="Dept_id" class="text-danger"></span>
+	</div>
+	<br />
+	<div>
+		<label asp-for="Crs_id">Course</label>
+		<select asp-items="Courses" asp-for="Crs_id">
+			<option value="0">--Select Course--</option>
+		</select>
+		<span asp-validation-for="Crs_id" class="text-danger"></span>
+	</div>
+	@* old list
+	<div>
+		<label>Department</label>
+		<select id="Dept_id" name="Dept_id">
+			@{
+				<option value="0">--Select Department--</option>
+				foreach (var dept in ViewBag.DepartmentsList)
+				{
+					<option value="@dept.Id">@dept.Name</option>
+				}
+			}
+		</select>
+		<span asp-validation-for="Dept_id" class="text-danger"></span>
+	</div>
+    <br />
+	<div>
+		<label>Course</label>
+		<select id="Crs_id" name="Crs_id">
+			@{
+				<option value="0">--Select Course--</option>
+				foreach (var course in ViewBag.CoursesList)
+				{
+					<option value="@course.Id">@course.Name</option>
+				}
+			}
+		</select>
+		<span asp-validation-for="Crs_id" class="text-danger"></span>
+	</div>
+	*@
+    <br />
+    <input type="submit" value="Add" class="btn btn-success" />
+</form>
+<!--client side validations-->
+@section Scripts {
+	@*<script src="/lib/jquery/dist/jquery.min.js"></script>*@
+	<script src="/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+	<script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

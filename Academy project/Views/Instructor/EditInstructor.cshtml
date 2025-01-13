@@ -1,0 +1,92 @@
+﻿@model Instructor
+@{
+    ViewData["Title"] = "Edit Instructor";
+
+    SelectList Courses = new SelectList(ViewBag.CoursesList, "Id", "Name");
+    SelectList Depts = new SelectList(ViewBag.DepartmentsList, "Id", "Name");
+}
+
+<h1>Edit</h1>
+
+<form method="post" asp-action="SaveInstructor" asp-controller="Instructor">
+    <input type="hidden" name="id" value="@Model.Id" /> 
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Salary"></label>
+        <input asp-for="Salary" class="form form-control" />
+        <span asp-validation-for="Salary" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Address"></label>
+        <input asp-for="Address" class="form form-control" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Image"></label>
+        <input asp-for="Image" value="image.jpeg" class="form form-control" />
+        <span asp-validation-for="Image" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Dept_id">Department</label>
+        <select asp-for="Dept_id" asp-items="Depts">
+        </select>
+        <span asp-validation-for="Dept_id" class="text-danger"></span>
+    </div>
+    <br />
+    <div>
+        <label asp-for="Crs_id">Course</label>
+        <select asp-items="Courses" asp-for="Crs_id">
+        </select>
+        <span asp-validation-for="Crs_id" class="text-danger"></span>
+    </div>
+    @*<label>Department</label>
+    <select id="Dept_id" name="Dept_id">
+        @{
+            foreach (var dept in Model.Departments)
+            {
+                if(Model.Instructor.Dept_id == dept.Id)
+                {
+                    <option value="@dept.Id" selected>@dept.Name</option>
+                }
+                else
+                {
+                    <option value="@dept.Id">@dept.Name</option>
+                }   
+            }
+        }
+    </select>
+
+    <label>Course</label>
+    <select id="Crs_id" name="Crs_id">
+        @{
+            foreach (var course in Model.Courses)
+            {
+                if (Model.Instructor.Crs_id == course.Id)
+                {
+                    <option value="@course.Id" selected>@course.Name</option>
+                }
+                else
+                {
+                    <option value="@course.Id">@course.Name</option>
+                }   
+            }
+        }
+    </select>*@
+    <br />
+    <input type="submit" value="Save" class="btn btn-success"/>
+</form>
+
+<!--client side validations-->
+@section Scripts {
+    @*<script src="/lib/jquery/dist/jquery.min.js"></script>*@
+    <script src="/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

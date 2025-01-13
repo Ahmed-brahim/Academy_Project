@@ -1,0 +1,30 @@
+﻿@model CrsResult
+@{
+	ViewData["Title"] = "GetResult";
+	SelectList Courses = new SelectList(ViewBag.Courses, "Id", "Name");
+}
+
+<h1>GetResult</h1>
+<form asp-action="ShowResult" asp-controller="Result" asp-route-Crs_id="">
+	<div>
+		<label asp-for="Trainee_Id">Trainee Id</label>
+		<input asp-for="Trainee_Id" class="form form-control" />
+		<span asp-validation-for="Trainee_Id" class="text-danger"></span>
+	</div>
+	<br />
+    <div>
+		<label>Select Course</label>
+		<select asp-items="Courses" asp-for="Course_Id"></select>
+		<span asp-validation-for="Course_Id" class="text-danger"></span>
+	</div>
+	<br />
+	<div>
+		<button type="Submit" class="btn btn-success">Get Result</button>
+	</div>
+</form>
+@section Scripts {
+	@*<script src="/lib/jquery/dist/jquery.min.js"></script>*@
+	<script src="/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+	<script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+

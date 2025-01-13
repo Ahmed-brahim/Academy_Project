@@ -1,0 +1,58 @@
+﻿@model List<Department>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Departments</h1>
+@if (User.IsInRole("Admin") || User.IsInRole("Manager"))
+{
+    <p>
+    <a asp-action="AddNewDepartment" class="btn btn-success"><i class="fas fa-plus"></i> Add New</a>
+    </p>
+}
+
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Id</th>
+            <th>Manager</th>
+            @if (User.IsInRole("Admin") || User.IsInRole("Manager"))
+            {
+                <th>Edit</th>
+            }
+            @if (User.IsInRole("Admin"))
+            {
+                <th>Delete</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var d in Model)
+        {
+            <tr>
+                <td>@d.Name</td>
+                <td>@d.Id</td>
+                <td>@d.Manager</td>
+                @if (User.IsInRole("Admin") || User.IsInRole("Manager"))
+                {
+                    <td>
+                    <a asp-action="EditDepartment" asp-route-id="@d.Id" class="btn btn-success">
+                            <i class="fas fa-edit"></i>
+                        </a>
+                    </td>
+                }
+                @if (User.IsInRole("Admin"))
+                {
+                    <td>
+                        <a asp-action="DeleteDepartment" asp-route-id="@d.Id" class="btn btn-danger">
+                            <i class="fas fa-trash-alt"></i>
+                        </a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>

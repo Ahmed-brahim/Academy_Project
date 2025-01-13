@@ -1,0 +1,32 @@
+﻿@model List<ResultViewModel>
+@{
+    ViewData["Title"] = "ShowCourseResult";
+}
+
+<h1>Show Course Result</h1>
+<br />
+<div>
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Course</th>
+                <th>Result</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var m in Model)
+            {
+                <tr>
+                    <td>@m.Name</td>
+                    <td>@m.CourseName</td>
+                    <td style="color: @m.Color">@m.Result</td>
+                    <td style="color: @m.Color">@m.Status</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

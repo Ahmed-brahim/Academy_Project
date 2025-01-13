@@ -1,0 +1,24 @@
+﻿@model ResultViewModel
+@{
+    ViewData["Title"] = "ShowResult";
+}
+
+<h1>Result</h1>
+<br />
+<div>
+    <div>
+        <b>Name : </b><b>@Model.Name</b>
+    </div>
+    <div>
+        <b>Course : </b><b>@Model.CourseName</b>
+    </div>
+    <div>
+        <b>Result : </b><b style="color:@Model.Color">@Model.Result</b>
+    </div>
+    <div>
+        <b>Status : </b><b style="color:@Model.Color">@Model.Status</b>
+    </div>
+</div>
+
+
+
